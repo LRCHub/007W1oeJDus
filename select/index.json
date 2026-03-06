@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "マニック (Instrumental ver.)",
   "base_artist": "NEE",
-  "createdAt": "2026-02-17T15:06:54.632067Z",
+  "createdAt": "2026-03-06T16:35:20.360470Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -23,10 +23,18 @@
     {
       "id": "lrclib_3",
       "source": "lrclib",
+      "title": "マニック",
+      "artist": "びび, *Luna",
+      "has_synced": true,
+      "path": "select/03_マニック_びび,__Luna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
       "title": "マニック (feat. 巡音ルカ&MEIKO)",
       "artist": "*Luna",
       "has_synced": true,
-      "path": "select/03_マニック_(feat._巡音ルカ&MEIKO)_Luna.lrc"
+      "path": "select/04_マニック_(feat._巡音ルカ&MEIKO)_Luna.lrc"
     },
     {
       "id": "petitlyrics_1",
